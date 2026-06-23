@@ -1,2 +1,25 @@
-# linux-detection-engineering-lab
-Linux detection lab with Wazuh, Sigma rules, log analysis, and MITRE ATT&amp;CK mapping.
+# Linux Detection Engineering Lab
+
+Practical Linux security lab focused on attack simulation, log analysis, detection rules, and MITRE ATT&CK mapping.
+
+## Planned scenarios
+
+* SSH brute-force detection
+* Suspicious cron job creation
+* SSH `authorized_keys` modification
+
+## Technologies
+
+* Ubuntu Linux
+* Wazuh
+* Sigma
+* MITRE ATT&CK
+* Bash
+
+## Status
+
+Work in progress.
+
+## Disclaimer
+
+For educational use in authorised laboratory environments only.
